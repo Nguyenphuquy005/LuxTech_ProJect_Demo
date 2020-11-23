@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "mice",
+  "info": {
+    "name": "Mouse"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "adress": {
+      "type": "string"
+    }
+  }
+}

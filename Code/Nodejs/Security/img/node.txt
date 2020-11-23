@@ -1,0 +1,2 @@
+DUùng next để chuyển trang nhé
+gủi data bằng header js

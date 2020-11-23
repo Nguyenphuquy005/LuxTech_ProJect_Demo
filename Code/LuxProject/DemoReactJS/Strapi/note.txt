@@ -1,0 +1,16 @@
+ npm run develop
+  Start Strapi in watch mode.
+
+  npm run start
+  Start Strapi without watch mode.
+
+  npm run build
+  Build Strapi admin panel.
+
+  npm run strapi
+  Display all available commands.
+
+You can start by doing:
+
+  cd D:\Luxtech\Code\LuxProject\DemoPR\Strapi
+  npm run develop

@@ -1,0 +1,4 @@
+$ mkdir nodejs-express-mongodb
+$ cd nodejs-express-mongodb
+npm init
+npm install express mongoose body-parser cors --save

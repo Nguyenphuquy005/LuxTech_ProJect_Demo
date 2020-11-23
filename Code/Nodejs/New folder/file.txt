@@ -1,0 +1,3 @@
+npm init : tạo packege json
+npm install express mongoose body-parser cors --save
+npmn iinstall nodemon
